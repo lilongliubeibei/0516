@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f1593fa-3632-44a1-9cd1-9b35eba90da4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xiugaiguo.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch31" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/ruanjian/apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\ruanjian\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1buGAXIEj9jwrFvvRb8RZssDCAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f1593fa-3632-44a1-9cd1-9b35eba90da4" name="Default Changelist" comment="" />
+      <created>1589474421757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589474421757</updated>
+      <workItem from="1589474424458" duration="1455000" />
+      <workItem from="1589554070324" duration="626000" />
+      <workItem from="1590901842526" duration="4884000" />
+    </task>
+    <task id="LOCAL-00001" summary="0517">
+      <created>1589474486584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589474486584</updated>
+    </task>
+    <task id="LOCAL-00002" summary="0531">
+      <created>1590928535426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590928535426</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0531gengxin">
+      <created>1590928645633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590928645633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0517" />
+    <MESSAGE value="0531" />
+    <MESSAGE value="0531111111111" />
+    <option name="LAST_COMMIT_MESSAGE" value="0531111111111" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590928521405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590928521405" />
+    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1590928644619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590928644619" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589555322246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589555322246" />
+    <state x="1360" y="442" key="GitRewordDialog" timestamp="1590928862385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1360" y="442" key="GitRewordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590928862385" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590928341936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590928341936" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1590928637914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1590928637914" />
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1589475568474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589475568474" />
+    <state x="1235" y="347" key="git4idea.merge.GitPullDialog" timestamp="1590930736894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1235" y="347" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590930736894" />
+    <state x="1317" y="437" key="git4idea.ui.GitResetDialog" timestamp="1590929027650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1317" y="437" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590929027650" />
+  </component>
+</project>
